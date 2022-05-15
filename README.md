@@ -1,2 +1,0 @@
-# crypto-demo
-crypto-demo
