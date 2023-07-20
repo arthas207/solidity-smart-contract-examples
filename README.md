@@ -1,7 +1,10 @@
-crypto-demo
 
-需要下载truffle和ganache，ganache的端口设置为7545
+need download truffle and ganache, set the ganache port to 7545
 
+it is very simple example, run the command below.
+```
 truffle compile
-
+```
+```
 truffle migrate
+```
